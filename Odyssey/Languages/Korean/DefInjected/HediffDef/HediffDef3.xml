@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WB_KumachanCylinder.label>베어리 실린더</WB_KumachanCylinder.label>
+  <WB_KumachanCylinder.description>산소 게이지 기능이 없어, 남은 산소량을 신경 쓰지 않고 활동할 수 있습니다.</WB_KumachanCylinder.description>
+  <WB_OxygenRibbonBrooch.label>산소 리본 브로치</WB_OxygenRibbonBrooch.label>
+  <WB_OxygenRibbonBrooch.description>이곳에서 베어리 실린더로부터 산소를 공급받습니다.</WB_OxygenRibbonBrooch.description>
+</LanguageData>
